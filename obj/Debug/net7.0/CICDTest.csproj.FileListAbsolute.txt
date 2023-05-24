@@ -1,0 +1,15 @@
+C:\CsharpProb\CICDTest\bin\Debug\net7.0\CICDTest.exe
+C:\CsharpProb\CICDTest\bin\Debug\net7.0\CICDTest.deps.json
+C:\CsharpProb\CICDTest\bin\Debug\net7.0\CICDTest.runtimeconfig.json
+C:\CsharpProb\CICDTest\bin\Debug\net7.0\CICDTest.dll
+C:\CsharpProb\CICDTest\bin\Debug\net7.0\CICDTest.pdb
+C:\CsharpProb\CICDTest\obj\Debug\net7.0\CICDTest.csproj.AssemblyReference.cache
+C:\CsharpProb\CICDTest\obj\Debug\net7.0\CICDTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpProb\CICDTest\obj\Debug\net7.0\CICDTest.AssemblyInfoInputs.cache
+C:\CsharpProb\CICDTest\obj\Debug\net7.0\CICDTest.AssemblyInfo.cs
+C:\CsharpProb\CICDTest\obj\Debug\net7.0\CICDTest.csproj.CoreCompileInputs.cache
+C:\CsharpProb\CICDTest\obj\Debug\net7.0\CICDTest.dll
+C:\CsharpProb\CICDTest\obj\Debug\net7.0\refint\CICDTest.dll
+C:\CsharpProb\CICDTest\obj\Debug\net7.0\CICDTest.pdb
+C:\CsharpProb\CICDTest\obj\Debug\net7.0\CICDTest.genruntimeconfig.cache
+C:\CsharpProb\CICDTest\obj\Debug\net7.0\ref\CICDTest.dll
